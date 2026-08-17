@@ -4,7 +4,7 @@
 
 Set up an Ubuntu Server virtual machine and learn basic Linux system administration, file management, networking, and remote access using SSH.
 
-## Enviroment
+## Environment
 
 - Ubuntu Server 26.04 LTS
 - VMware Workstation Pro
@@ -27,31 +27,32 @@ Set up an Ubuntu Server virtual machine and learn basic Linux system administrat
 
 ### System Information
 
-whoami
-hostname
-pwd
-ip a
+- whoami
+- hostname
+- pwd
+- ip a
 
 ### File and Directory Management
 
-ls
-ls -l
-ls -la
-mkdir
-cd
-touch
-cat
-cp
-mv
-rm
-rmdir
-cd ..
-cd ~
+- ls
+- ls -l
+- ls -la
+- mkdir
+- cd
+- cd ..
+- cd ~
+- touch
+- cat
+- cp
+- mv
+- rm
+- rmdir
+- rm -r
 
 ### SSH and Services
 
-systemctl status ssh
-ssh username@server-ip
+- systemctl status ssh
+- ssh username@server-ip
 
 ## What I Learned
 
@@ -65,3 +66,11 @@ ssh username@server-ip
 
 ## Screenshots
 
+### Server Identity and Network
+![Server Identity and Network](Screenshots/01-server-identity-network.png)
+
+### SSH Service Status
+![SSH Service Status](Screenshots/02-ssh-service-status.png)
+
+### SSH Remote Connection
+![SSH Remote Connection](Screenshots/03-ssh-remote-connection.png)
