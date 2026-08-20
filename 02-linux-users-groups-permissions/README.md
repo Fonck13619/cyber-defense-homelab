@@ -163,13 +163,13 @@ pwd
 ## Screenshots
 
 ### User and Group Membership
-![User and group membership](screenshots/01-user-groups.png)
+![User and group membership](Screenshots/01-user-groups.png)
 
 ### Shared Group Permissions
-![Shared group permissions](screenshots/02-group-permissions.png)
+![Shared group permissions](Screenshots/02-group-permissions.png)
 
 ### Permission Denied Test
-![Permission denied](screenshots/03-permission-denied.png)
+![Permission denied](Screenshots/03-permission-denied.png)
 
 ## What I Learned
 
